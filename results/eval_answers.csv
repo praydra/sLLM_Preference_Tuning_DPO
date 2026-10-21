@@ -1,0 +1,288 @@
+﻿stage,answerable,field,answer,correct,refused,cited,hallucinated
+base,True,packing,LOT LT2604-0572의 포장 팔레트 번호는 PL-25입니다.,False,False,False,False
+base,False,inspection,"LT2604-0783의 검사 판정 결과는 ""OK""입니다.",False,False,False,True
+base,True,material,[EV-3589] LOT LT2605-0623 | 자재투입 | 자재: MAT-NCM-02,False,False,True,False
+base,False,inspection,"LT2605-0595의 검사 판정 결과는 ""OK""입니다.",False,False,False,True
+base,True,material,[EV-4448] LOT LT2607-0703 | 자재투입 | 자재: MAT-NCM-02,True,False,True,False
+base,False,packing,LOT LT2603-0746의 팔레트는 PL-20입니다.,False,False,False,True
+base,True,hold,보류 사유: 이물 검출,False,False,False,False
+base,False,packing,LOT LT2609-0838의 포장 팔레트 번호는 PL-55입니다.,False,False,False,True
+base,True,material,"[조회 기록]
+[EV-3329] LOT LT2606-0928 | 자재투입 | 자재: MAT-AL-01
+
+LT2606-0928에 투입된 자재 코드",True,False,True,False
+base,False,inspection,OK,False,False,False,True
+base,True,material,[EV-4180] LOT LT2609-0481 | 자재투입 | 자재: MAT-AL-01,True,False,True,False
+base,False,material,[EV-6738] LOT LT2601-0540 | 포장 | 팔레트: PL-40 에서 투입된 자재 코드는 MAT-NCM-01입니다.,False,False,True,True
+base,True,inspection,"LT2601-0139의 검사 판정 결과는 ""OK""입니다.",False,False,False,False
+base,False,packing,LOT LT2603-0337의 팔레트는 PL-95입니다.,False,False,False,True
+base,True,inspection,"LT2603-0645의 검사 판정 결과는 ""판정: NG""입니다.",False,False,False,False
+base,False,material,"LOT LT2606-0489에는 다음과 같은 자재가 포함되어 있습니다:
+
+- 펜 (PAPER)
+- 토마토 (TAO)
+- 헬스케어 (HEX)
+- 테이블 (TABLE)
+
+이런",False,False,False,True
+base,True,material,"MAT-NCM-01, MAT-NCM-02",False,False,False,False
+base,False,hold,"LOT LT2608-0760의 보류 사유는 다음과 같습니다:
+
+- 팔레트: PL-16
+- 판정: NG",False,False,False,True
+base,True,material,[EV-1133] LOT LT2602-0363 | 보류 | 사유: 이물 검출,False,False,True,False
+base,False,inspection,"[조회 기록]
+[EV-4847] LOT LT2603-0137 | 품질검사 | 판정: NG
+[EV-9659] LOT LT2603-0137 | 포장",False,False,True,True
+base,True,material,[EV-3131] LOT LT2608-0245 | 자재투입 | 자재: MAT-NCM-01,True,False,True,False
+base,False,material,LOT LT2601-0202에는 MAT-NCM-01가 포함되어 있습니다.,False,False,False,True
+base,True,material,MAT-NCM-01,False,False,False,False
+base,False,packing,"[조회 기록]
+[EV-1184] LOT LT2606-0997 | 포장 | 팔레트: PL-57
+
+LT2602-0824은 PL-57의 팔레트에",False,False,True,True
+base,True,material,[EV-2468] LOT LT2608-0856 | 자재투입 | 자재: MAT-NCM-01,True,False,True,False
+base,False,inspection,NG,False,False,False,True
+base,True,material,LOT LT2609-0702에 들어간 자재는 MAT-NCM-01입니다.,False,False,False,False
+base,False,material,LOT LT2603-0159에 들어간 자재는 MAT-NCM-02입니다.,False,False,False,True
+base,True,hold,"[조회 기록]
+[EV-9760] LOT LT2607-0488 | 보류 | 사유: 설비 이상
+
+[질문] LOT LT2607-0488 보류 사유 알려줘",True,False,True,False
+base,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+base,True,inspection,LT2605-0260의 검사 판정 결과는 NG입니다.,False,False,False,False
+base,False,material,LOT LT2602-0593에 들어간 자재는 MAT-CU-01입니다.,False,False,False,True
+base,True,inspection,"LT2605-0460의 검사 판정 결과는 ""OK""입니다.",False,False,False,False
+base,False,hold,"[조회 기록]
+[EV-9738] LOT LT2605-0643 | 보류 | 사유: 이물 검출
+
+[질문] LOT LT2609-0701 보류 사유 알려줘",False,False,True,True
+base,True,hold,"LT2608-0634은 보류 상태입니다. 이 사유는 ""이물 검출""이라고 적혀 있습니다. 이는 물건을 검출한 것을 나타냅니다. 따라서 보류 상태로 보이는 것은 물건이 검출되었음을 의미",False,False,False,False
+base,False,hold,"LT2601-0444의 보류 사유는 ""외관 불량""입니다.",False,False,False,True
+base,True,packing,LOT LT2604-0578의 포장 팔레트 번호는 PL-57입니다.,False,False,False,False
+base,False,material,LOT LT2601-0252에 들어간 자재는 MAT-NCM-01입니다.,False,False,False,True
+base,True,hold,보류 사유: 설비 이상,False,False,False,False
+base,False,packing,LOT LT2601-0480의 포장 팔레트 번호는 PL-66입니다.,False,False,False,True
+base,True,packing,LOT LT2608-0371의 포장 팔레트 번호는 PL-84입니다.,False,False,False,False
+base,False,inspection,"[조회 기록]
+[EV-2622] LOT LT2602-0519 | 보류 | 사유: 설비 이상
+
+[질문] LT2602-0519의 검사 판정 결과는?",False,False,True,True
+base,True,hold,[근거: 기록ID: EV-7710] LOT LT2607-0912 | 보류 | 사유: 설비 이상,True,False,True,False
+base,False,hold,보류 사유: 이물 검출,False,False,False,True
+base,True,inspection,LT2602-0087의 검사 판정 결과는 NG입니다.,False,False,False,False
+base,False,material,MAT-AL-01,False,False,False,True
+base,True,packing,LOT LT2601-0423의 포장 팔레트 번호는 PL-50입니다.,False,False,False,False
+base,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+base,True,material,LOT LT2604-0378에 들어간 자재는 MAT-GR-01입니다.,False,False,False,False
+base,False,material,"LT2601-0022에 투입된 자재 코드는 ""PL-88""입니다.",False,False,False,True
+base,True,packing,LOT LT2601-0443의 팔레트는 PL-30입니다.,False,False,False,False
+base,False,material,LT2601-0725에 투입된 자재 코드는 MAT-CU-01입니다.,False,False,False,True
+base,True,material,LOT LT2607-0792에 들어간 자재는 MAT-AL-01입니다.,False,False,False,False
+base,False,packing,LOT LT2601-0271의 포장 팔레트 번호는 PL-90입니다.,False,False,False,True
+base,True,hold,"[조회 기록]
+[EV-2571] LOT LT2602-0481 | 보류 | 사유: 치수 불량
+
+[질문] LOT LT2602-0481 보류 사유 알려줘",True,False,True,False
+base,False,material,MAT-AL-01,False,False,False,True
+base,True,packing,LOT LT2601-0597의 포장 팔레트 번호는 PL-59입니다.,False,False,False,False
+base,False,packing,LOT LT2603-0073의 포장 팔레트 번호는 PL-75입니다.,False,False,False,True
+base,True,inspection,NG,False,False,False,False
+base,False,packing,LOT LT2609-0552의 포장 팔레트 번호는 PL-90입니다.,False,False,False,True
+base,True,material,[질문] LT2606-0970에 투입된 자재 코드는 MAT-GR-01입니다.,False,False,False,False
+base,False,hold,보류 사유: 설비 이상,False,False,False,True
+base,True,inspection,"LT2603-0958의 검사 판정 결과는 ""판정: OK""입니다.",False,False,False,False
+base,False,hold,"[조회 기록]
+[EV-2936] LOT LT2602-0785 | 보류 | 사유: 치수 불량
+[EV-4425] LOT LT2605-0524 | 포장",False,False,True,True
+base,True,material,LOT LT2609-0692에 들어간 자재는 MAT-NCM-01입니다.,False,False,False,False
+base,False,material,"[조회 기록]
+[EV-3546] LOT LT2606-0797 | 보류 | 사유: 설비 이상
+
+[질문] LT2606-0797에 투입된 자재 코드는",False,False,True,True
+base,True,inspection,"LT2603-0678의 검사 판정 결과는 ""OK""입니다.",False,False,False,False
+base,False,inspection,"[조회 기록]
+[EV-3418] LOT LT2604-0467 | 자재투입 | 자재: MAT-GR-01
+[EV-9226] LOT LT2604-0467",False,False,True,True
+base,True,packing,LOT LT2601-0475의 팔레트는 PL-83입니다.,False,False,False,False
+base,False,hold,"LOT LT2601-0094의 보류 사유는 ""제조 과정 중 오류나 문제 발생""이라고 답변합니다.",False,False,False,True
+base,True,inspection,"[조회 기록]
+[EV-7355] LOT LT2607-0622 | 자재투입 | 자재: MAT-GR-01
+[EV-3637] LOT LT2601-0455",False,False,True,False
+base,False,hold,"LOT LT2607-0856의 보류 사유는 ""자재투입""으로, 자재: MAT-GR-01입니다. 이 자재가 부족한 경우에 발생할 수 있습니다.",False,False,False,True
+base,True,inspection,"[조회 기록]
+[EV-7222] LOT LT2602-0132 | 품질검사 | 판정: OK
+
+LT2602-0132의 품질검사 결과는 ""OK""",True,False,True,False
+base,False,inspection,"[조회 기록]
+[EV-2227] LOT LT2604-0565 | 품질검사 | 판정: OK
+[EV-8685] LOT LT2601-0224 | �",False,False,True,True
+base,True,hold,보류 사유: 설비 이상,False,False,False,False
+base,False,packing,LOT LT2609-0719의 포장 팔레트 번호는 [근거: EV-4035].,False,False,True,True
+base,True,packing,LOT LT2605-0322의 팔레트는 PL-53입니다.,False,False,False,False
+base,False,packing,LOT LT2608-0466의 포장 팔레트 번호는 PL-74입니다.,False,False,False,True
+base,True,inspection,"LT2604-0595의 검사 판정 결과는 ""NG""입니다.",False,False,False,False
+base,False,material,LOT LT2601-0906에 들어간 자재는 MAT-NCM-01입니다.,False,False,False,True
+sft,True,packing,LT2604-0572의 포장 팔레트는 PL-25입니다. [근거: EV-9399],True,False,True,False
+sft,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,material,LT2607-0634의 투입 자재는 MAT-NCM-02입니다. [근거: EV-3589],False,False,True,False
+sft,False,inspection,LT2605-0595의 검사 판정은 OK입니다. [근거: EV-2532],False,False,True,True
+sft,True,material,LT2607-0703의 투입 자재는 MAT-NCM-02입니다. [근거: EV-4448],True,False,True,False
+sft,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,hold,LT2605-0203의 보류 사유는 이물 검출입니다. [근거: EV-1841],False,False,True,False
+sft,False,packing,LT2609-0838의 포장 팔레트는 PL-55입니다. [근거: EV-4477],False,False,True,True
+sft,True,material,LT2606-0928의 투입 자재는 MAT-AL-01입니다. [근거: EV-3329],True,False,True,False
+sft,False,inspection,LT2607-0740의 검사 판정은 OK입니다. [근거: EV-2120],False,False,True,True
+sft,True,material,LT2609-0481의 투입 자재는 MAT-AL-01입니다. [근거: EV-4180],True,False,True,False
+sft,False,material,LT2601-0540의 투입 자재는 MAT-GR-01입니다. [근거: EV-9692],False,False,True,True
+sft,True,inspection,LT2601-0139의 검사 판정은 OK입니다. [근거: EV-2268],False,False,True,False
+sft,False,packing,LT2603-0337의 포장 팔레트는 PL-95입니다. [근거: EV-2468],False,False,True,True
+sft,True,inspection,LT2603-0645의 검사 판정은 NG입니다. [근거: EV-5613],True,False,True,False
+sft,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,material,LT2608-0846의 투입 자재는 MAT-NCM-01입니다. [근거: EV-5673],True,False,True,False
+sft,False,hold,LT2608-0760의 보류 사유는 PL-16입니다. [근거: EV-1761],False,False,True,True
+sft,True,material,LT2602-0363의 투입 자재는 MAT-CU-01입니다. [근거: EV-3046],False,False,True,False
+sft,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,material,LT2608-0245의 투입 자재는 MAT-NCM-01입니다. [근거: EV-3131],True,False,True,False
+sft,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,material,LT2606-0719의 투입 자재는 MAT-NCM-01입니다. [근거: EV-3348],True,False,True,False
+sft,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,material,LT2608-0856의 투입 자재는 MAT-NCM-01입니다. [근거: EV-2468],True,False,True,False
+sft,False,inspection,LT2608-0739의 검사 결과는 OK입니다. [근거: EV-6099],False,False,True,True
+sft,True,material,LT2609-0702의 투입 자재는 MAT-NCM-01입니다. [근거: EV-9325],True,False,True,False
+sft,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,hold,LT2607-0488의 보류 사유는 설비 이상입니다. [근거: EV-9760],True,False,True,False
+sft,False,hold,LT2604-0657의 보류 사유는 치수 불량입니다. [근거: EV-4139],False,False,True,True
+sft,True,inspection,LT2605-0260의 검사 판정은 NG입니다. [근거: EV-9896],True,False,True,False
+sft,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,inspection,LT2605-0460의 검사 판정은 NG입니다. [근거: EV-5260],False,False,True,False
+sft,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,hold,LT2608-0634의 보류 사유는 이물 검출입니다. [근거: EV-2984],True,False,True,False
+sft,False,hold,LT2601-0444의 보류 사유는 외관 불량입니다. [근거: EV-1763],False,False,True,True
+sft,True,packing,LT2604-0578의 포장 팔레트는 PL-57입니다. [근거: EV-3907],False,False,True,False
+sft,False,material,LT2601-0252의 투입 자재는 MAT-NCM-01입니다. [근거: EV-6821],False,False,True,True
+sft,True,hold,LT2605-0986의 보류 사유는 설비 이상입니다. [근거: EV-9729],True,False,True,False
+sft,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,packing,LT2608-0371의 포장 팔레트는 PL-84입니다. [근거: EV-2269],True,False,True,False
+sft,False,inspection,LT2602-0519의 검사 판정은 NG입니다. [근거: EV-2622],False,False,True,True
+sft,True,hold,LT2607-0912의 보류 사유는 설비 이상입니다. [근거: EV-7710],True,False,True,False
+sft,False,hold,LT2608-0313의 보류 사유는 이물 검출입니다. [근거: EV-5772],False,False,True,True
+sft,True,inspection,LT2602-0087의 검사 판정은 NG입니다. [근거: EV-2957],True,False,True,False
+sft,False,material,LT2605-0664의 투입 자재는 MAT-AL-01입니다. [근거: EV-5484],False,False,True,True
+sft,True,packing,LT2601-0423의 포장 팔레트는 PL-50입니다. [근거: EV-3960],True,False,True,False
+sft,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,material,LT2604-0378의 투입 자재는 MAT-GR-01입니다. [근거: EV-7861],True,False,True,False
+sft,False,material,LT2601-0022의 투입 자재는 1개입니다. [근거: EV-1782],False,False,True,True
+sft,True,packing,LT2601-0443의 포장 팔레트는 PL-30입니다. [근거: EV-5489],True,False,True,False
+sft,False,material,LT2601-0725의 투입 자재는 MAT-GR-01입니다. [근거: EV-3465],False,False,True,True
+sft,True,material,LT2607-0792의 투입 자재는 MAT-AL-01입니다. [근거: EV-8637],True,False,True,False
+sft,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,hold,LT2602-0481의 보류 사유는 치수 불량입니다. [근거: EV-2571],True,False,True,False
+sft,False,material,LT2601-0414의 투입 자재는 MAT-AL-01입니다. [근거: EV-8018],False,False,True,True
+sft,True,packing,LT2601-0597의 포장 팔레트는 PL-89입니다. [근거: EV-3944],False,False,True,False
+sft,False,packing,LT2603-0073의 포장 팔레트는 PL-75입니다. [근거: EV-1528],False,False,True,True
+sft,True,inspection,LT2604-0290의 검사 판정은 NG입니다. [근거: EV-3829],False,False,True,False
+sft,False,packing,LT2609-0552의 포장 팔레트는 PL-90입니다. [근거: EV-5319],False,False,True,True
+sft,True,material,LT2606-0970의 투입 자재는 MAT-GR-01입니다. [근거: EV-9803],False,False,True,False
+sft,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,inspection,LT2603-0958의 검사 판정은 OK입니다. [근거: EV-9833],True,False,True,False
+sft,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,material,LT2609-0692의 투입 자재는 MAT-NCM-01입니다. [근거: EV-5816],False,False,True,False
+sft,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,inspection,LT2603-0678의 검사 판정은 NG입니다. [근거: EV-6253],True,False,True,False
+sft,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,packing,LT2601-0475의 포장 팔레트는 PL-83입니다. [근거: EV-2960],False,False,True,False
+sft,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,inspection,LT2607-0622의 검사 판정은 OK입니다. [근거: EV-4818],True,False,True,False
+sft,False,hold,LT2607-0856의 보류 사유는 100%의 재료 투입입니다. [근거: EV-6932],False,False,True,True
+sft,True,inspection,LT2602-0132의 검사 판정은 OK입니다. [근거: EV-7222],True,False,True,False
+sft,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,hold,LT2606-0389의 보류 사유는 설비 이상입니다. [근거: EV-8217],True,False,True,False
+sft,False,packing,LT2609-0719의 포장 팔레트는 1000입니다. [근거: EV-4035],False,False,True,True
+sft,True,packing,LT2605-0322의 포장 팔레트는 PL-53입니다. [근거: EV-4044],False,False,True,False
+sft,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft,True,inspection,LT2604-0595의 검사 판정은 NG입니다. [근거: EV-1735],True,False,True,False
+sft,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,packing,LT2604-0572의 포장 팔레트는 PL-25입니다. [근거: EV-9399],True,False,True,False
+sft+dpo,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2608-0905의 투입 자재는 MAT-AL-01입니다. [근거: EV-9826],True,False,True,False
+sft+dpo,False,inspection,LT2605-0595의 검사 판정은 OK입니다. [근거: EV-9876],False,False,True,True
+sft+dpo,True,material,LT2607-0703의 투입 자재는 MAT-NCM-02입니다. [근거: EV-4448],True,False,True,False
+sft+dpo,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,hold,LT2605-0203의 보류 사유는 이물 검출입니다. [근거: EV-1841],False,False,True,False
+sft+dpo,False,packing,LT2609-0838의 포장 팔레트는 PL-55입니다. [근거: EV-4477],False,False,True,True
+sft+dpo,True,material,조회된 기록에 근거가 없어 답할 수 없습니다.,False,True,False,False
+sft+dpo,False,inspection,LT2607-0740의 검사 판정은 OK입니다. [근거: EV-6021],False,False,True,True
+sft+dpo,True,material,LT2609-0481의 투입 자재는 MAT-AL-01입니다. [근거: EV-1992],False,False,True,False
+sft+dpo,False,material,LT2601-0540의 투입 자재는 MAT-GR-01입니다. [근거: EV-9692],False,False,True,True
+sft+dpo,True,inspection,LT2601-0139의 검사 판정은 NG입니다. [근거: EV-3172],False,False,True,False
+sft+dpo,False,packing,LT2603-0337의 포장 팔레트는 PL-95입니다. [근거: EV-2468],False,False,True,True
+sft+dpo,True,inspection,LT2603-0645의 검사 판정은 NG입니다. [근거: EV-5613],True,False,True,False
+sft+dpo,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2608-0846의 투입 자재는 MAT-NCM-01입니다. [근거: EV-9180],False,False,True,False
+sft+dpo,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2602-0363의 투입 자재는 MAT-CU-01입니다. [근거: EV-3046],False,False,True,False
+sft+dpo,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2608-0245의 투입 자재는 MAT-NCM-01입니다. [근거: EV-3131],True,False,True,False
+sft+dpo,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2606-0719의 투입 자재는 MAT-NCM-01입니다. [근거: EV-3348],True,False,True,False
+sft+dpo,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2608-0856의 투입 자재 코드는 MAT-NCM-01입니다. [근거: EV-2468],True,False,True,False
+sft+dpo,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2609-0702의 투입 자재는 MAT-NCM-01입니다. [근거: EV-9325],True,False,True,False
+sft+dpo,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,hold,LT2607-0488의 보류 사유는 설비 이상입니다. [근거: EV-9760],True,False,True,False
+sft+dpo,False,hold,LT2604-0657의 보류 사유는 치수 불량입니다. [근거: EV-1793],False,False,True,True
+sft+dpo,True,inspection,LT2605-0260의 검사 판정은 NG입니다. [근거: EV-9896],True,False,True,False
+sft+dpo,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,inspection,LT2605-0460의 검사 판정은 OK입니다. [근거: EV-5777],False,False,True,False
+sft+dpo,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,hold,LT2608-0634의 보류 사유는 이물 검출입니다. [근거: EV-2984],True,False,True,False
+sft+dpo,False,hold,LT2601-0444의 보류 사유는 NG입니다. [근거: EV-1763],False,False,True,True
+sft+dpo,True,packing,LT2604-0578의 포장 팔레트는 PL-57입니다. [근거: EV-3907],False,False,True,False
+sft+dpo,False,material,LT2601-0252의 투입 자재는 MAT-NCM-02입니다. [근거: EV-9608],False,False,True,True
+sft+dpo,True,hold,LT2605-0986의 보류 사유는 설비 이상입니다. [근거: EV-9729],True,False,True,False
+sft+dpo,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,packing,LT2608-0371의 포장 팔레트는 PL-84입니다. [근거: EV-2269],True,False,True,False
+sft+dpo,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,hold,LT2607-0912의 보류 사유는 설비 이상입니다. [근거: EV-7710],True,False,True,False
+sft+dpo,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,inspection,LT2602-0087의 검사 판정은 NG입니다. [근거: EV-2957],True,False,True,False
+sft+dpo,False,material,LT2605-0634의 투입 자재는 MAT-AL-01입니다. [근거: EV-5991],False,False,True,True
+sft+dpo,True,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,False,True,False,False
+sft+dpo,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2604-0378의 투입 자재는 MAT-GR-01입니다. [근거: EV-7861],True,False,True,False
+sft+dpo,False,material,LT2601-0022의 투입 자재는 PL-88입니다. [근거: EV-7114],False,False,True,True
+sft+dpo,True,packing,LT2601-0443의 포장 팔레트는 PL-30입니다. [근거: EV-5489],True,False,True,False
+sft+dpo,False,material,LT2601-0725의 투입 자재는 MAT-GR-01입니다. [근거: EV-6853],False,False,True,True
+sft+dpo,True,material,LT2607-0792의 투입 자재는 MAT-AL-01입니다. [근거: EV-8637],True,False,True,False
+sft+dpo,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,hold,LT2602-0481의 보류 사유는 치수 불량입니다. [근거: EV-2571],True,False,True,False
+sft+dpo,False,material,LT2601-0414의 투입 자재는 MAT-AL-01입니다. [근거: EV-8018],False,False,True,True
+sft+dpo,True,packing,"LT2609-0073 | 포장 | 팔레트: PL-89
+
+[질문] LT2607-0406의 검은 포장 팔레트는?
+조회된 기록에 근거가 없",False,True,False,False
+sft+dpo,False,packing,LT2603-0073의 포장 팔레트는 PL-75입니다. [근거: EV-9235],False,False,True,True
+sft+dpo,True,inspection,LT2604-0290의 검사 판정은 NG입니다. [근거: EV-3275],True,False,True,False
+sft+dpo,False,packing,LT2609-0552의 포장 팔레트는 PL-90입니다. [근거: EV-5319],False,False,True,True
+sft+dpo,True,material,LT2606-0970의 투입 자재는 MAT-GR-01입니다. [근거: EV-9803],False,False,True,False
+sft+dpo,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,inspection,LT2603-0958의 검사 판정은 OK입니다. [근거: EV-9833],True,False,True,False
+sft+dpo,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,material,LT2609-0692의 투입 자재는 MAT-NCM-01입니다. [근거: EV-5816],False,False,True,False
+sft+dpo,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,inspection,LT2603-0678의 검사 판정은 OK입니다. [근거: EV-3007],False,False,True,False
+sft+dpo,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,packing,LT2601-0475의 포장 팔레트는 PL-83입니다. [근거: EV-2960],False,False,True,False
+sft+dpo,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,inspection,LT2607-0622의 검사 판정은 OK입니다. [근거: EV-3637],False,False,True,False
+sft+dpo,False,hold,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,inspection,LT2602-0132의 검사 판정은 OK입니다. [근거: EV-7222],True,False,True,False
+sft+dpo,False,inspection,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,hold,LT2606-0389의 보류 사유는 설비 이상입니다. [근거: EV-8217],True,False,True,False
+sft+dpo,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,packing,LT2605-0322의 포장 팔레트는 PL-53입니다. [근거: EV-4044],False,False,True,False
+sft+dpo,False,packing,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False
+sft+dpo,True,inspection,LT2604-0595의 검사 판정은 NG입니다. [근거: EV-1735],True,False,True,False
+sft+dpo,False,material,조회된 기록에 근거가 없어 답할 수 없습니다.,True,True,False,False

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "lora": {
+      "r": 16,
+      "lora_alpha": 32,
+      "lora_dropout": 0.05,
+      "target_modules": [
+        "q_proj",
+        "k_proj",
+        "v_proj",
+        "o_proj"
+      ],
+      "task_type": "CAUSAL_LM"
+    },
+    "args": {
+      "sft_epochs": 1.0,
+      "dpo_epochs": 1.0,
+      "beta": 0.1,
+      "sft_weight": 1.0,
+      "max_steps": -1,
+      "eval_n": 0
+    },
+    "n_train": 400,
+    "n_eval": 80,
+    "train_time_sec": {
+      "sft": 1307.5,
+      "dpo": 2728.5
+    }
+  },
+  "summary": {
+    "base": {
+      "overall_acc": 0.1375,
+      "answer_acc": 0.225,
+      "refusal_acc": 0.05,
+      "hallucination_rate": 0.95,
+      "over_refusal_rate": 0.0
+    },
+    "sft": {
+      "overall_acc": 0.6,
+      "answer_acc": 0.7,
+      "refusal_acc": 0.5,
+      "hallucination_rate": 0.5,
+      "over_refusal_rate": 0.0
+    },
+    "sft+dpo": {
+      "overall_acc": 0.625,
+      "answer_acc": 0.6,
+      "refusal_acc": 0.65,
+      "hallucination_rate": 0.35,
+      "over_refusal_rate": 0.075
+    }
+  }
+}
